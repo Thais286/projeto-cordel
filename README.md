@@ -1,0 +1,1 @@
+Site criado por mim através das aulas do Curso em Vídeo do professor Gustavo Guanabara . Esse site foi projetado no curso de HTML5,CSS3 com o objetivo de criar um site interativo, bonito ,responsivo e atrativo. O site é sobre o Cordel moderno do poeta Milton Duarte ,que mostra como a tecnologia está mudando tudo a nossa a nossa volta ,inclusive a forma de nós comunicarmos.
